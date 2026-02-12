@@ -15,14 +15,14 @@
       "caption": {"en": "Concert in Idilio Bar", "es": "Concierto en Idilio Bar"}
     },
     {
-      "src": "assets/img/WB1.jpg",
-      "alt": {"en": "Andrés Restrepo, our pianist playing the trumpet solo in Tendrá Sentido.", "es": "Andrés Restrepo, nuestro pianista tocando el solo de trompeta de Tendrá Sentido."},
-      "caption": {"en": "Andres Restrepo's Tendrá Sentido solo, in the Rock Festival 2025.", "es": "El solo de Andrés Restrepo en la canción Tendrá Sentido en el festival de rock 2025."}
-    },
-    {
       "src": "assets/img/WB2.jpg",
       "alt": {"en": "Concert photo in the Rock Festival 2025.", "es": "Foto en concierto en el festival de rock."},
       "caption": {"en": "Concert in Teatro Libre - Bogotá.", "es": "Concierto en el Teatro Libre - Bogotá."}
+    },
+    {
+      "src": "assets/img/WB1.jpg",
+      "alt": {"en": "Andrés Restrepo, our pianist playing the trumpet solo in Tendrá Sentido.", "es": "Andrés Restrepo, nuestro pianista tocando el solo de trompeta de Tendrá Sentido."},
+      "caption": {"en": "Andres Restrepo's Tendrá Sentido solo, in the Rock Festival 2025.", "es": "El solo de Andrés Restrepo en la canción Tendrá Sentido en el festival de rock 2025."}
     },
     {
       "src": "assets/img/WB3.jpg",
