@@ -1,13 +1,13 @@
 {
   "nextEvent": {
     "type": {"en": "Concert", "es": "Concierto"},
-    "title": {"en": "Ziloé Festival I", "es": "Festival Ziloé I"},
-    "location": {"en": "Ernesto Bein Theatre, Gimnasio Moderno, Bogotá - Colombia", "es": "Sala Ernesto Bein, Gimnasio Moderno, Bogotá - Colombia"},
-    "date": "2026-03-19T18:30:00-05:00",
-    "image": "assets/img/upcoming-01.svg",
+    "title": {"en": "Stay tuned for future event announcements.", "es": "Pronto anunciaremos nuestro próximo evento."},
+    "location": {"en": "TBA", "es": "A ser anunciado."},
+    "date": null,
+    "image": null,
     "description": {
-      "en": "First edition of the yearly Ziloé Festival, with 3 invited groups.",
-      "es": "Primera edición del anual Fesival Ziloé, con 3 grupos invitados."
+      "en": null,
+      "es": null
     }
   },
   "upcomingReleases": [
