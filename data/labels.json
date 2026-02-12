@@ -14,7 +14,7 @@
   "sections.upcoming": {"en": "Upcoming", "es": "Próximos"},
   "sections.calendar": {"en": "Upcoming Releases", "es": "Próximos Lanzamientos"},
   "sections.contact": {"en": "Contact Us", "es": "Contacto"},
-  "contact.copy": {"en": "Bookings and press inquiries.", "es": "Reservas y prensa."},
+  "contact.copy": {"en": "Contact us for any inquiries you may have!", "es": "Contáctanos con cualquier pregunta o comentario que tengas!"},
   "contact.emailLabel": {"en": "Email", "es": "Correo"},
   "contact.phoneLabel": {"en": "Phone", "es": "Teléfono"},
   "home.latestCopy": {
