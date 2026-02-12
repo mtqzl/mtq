@@ -20,14 +20,49 @@
         "caption": {"en": "Concert in Teatro Libre - Bogotá.", "es": "Concierto en el Teatro Libre - Bogotá."}
       },
       {
+        "src": "assets/img/MP1.JPG",
+        "alt": {"en": "Photo of the band at our show in Idilio.", "es": "Foto de la banda en el concierto de Idilio."},
+        "caption": {"en": "The band playing at Idilio.", "es": "La banda tocando en Idilio."}
+      },
+      {
         "src": "assets/img/WB1.jpg",
         "alt": {"en": "Andrés Restrepo, our pianist playing the trumpet solo in Tendrá Sentido.", "es": "Andrés Restrepo, nuestro pianista tocando el solo de trompeta de Tendrá Sentido."},
-        "caption": {"en": "Andres Restrepo's Tendrá Sentido solo, in the Rock Festival 2025.", "es": "El solo de Andrés Restrepo en la canción Tendrá Sentido en el festival de rock 2025."}
+        "caption": {"en": "Tendrá Sentido solo at the Rock Festival 2025.", "es": "El solo de Tendrá Sentido en el festival de rock 2025."}
       },
       {
         "src": "assets/img/WB3.jpg",
         "alt": {"en": "Simón Martínez, our bassist, playing in the Rock Festival 2025.", "es": "Simón Martínez, nuestro bajista, tocando en el festival de rock 2025"},
         "caption": {"en": "Simón playing in the Rock Festival 2025.", "es": "Simón tocando en el festival de rock 2025."}
+      },
+      {
+        "src": "assets/img/TR1.JPG",
+        "alt": {"en": "Our singer Juan Pablo Hernández during the Idilio show.", "es": "Nuestro cantante Juan Pablo Hernández."},
+        "caption": {"en": "Juan Pablo Hernández singing at Idilio.", "es": "Juan Pablo Hernández cantando en Idilio."}
+      },
+      {
+        "src": "assets/img/ID4.JPG",
+        "alt": {"en": "Juan Pablo Hernández taking a photo with the crowd at Idilio.", "es": "Juan Pablo Hernández tomando una foto con el público en Idilio."},
+        "caption": {"en": "Selfie with the crowd at Idilio.", "es": "Selfie con el público en Idilio."}
+      },
+      {
+        "src": "assets/img/ID2.JPG",
+        "alt": {"en": "Juan José playing drums.", "es": "Juan José tocando batería."},
+        "caption": {"en": "Juan José our drummer playing at Idilio", "es": "Nuestro baterista Juan José tocando en Idilio."}
+      },
+      {
+        "src": "assets/img/SAM1.JPG",
+        "alt": {"en": "Samuel Gutiérrez debuting at Idilio.", "es": "Samuel Gutiérrez debutando en Idilio."},
+        "caption": {"en": "Samuel Gutiérrez's debut at Idilio during our greatest hit, Pudo Ser Diferente.", "es": "El debut de Samuel Gutiérrez en Idilio durante nuestra canción más escuchada, Pudo Ser Diferente."}
+      },
+      {
+        "src": "assets/img/AF1.JPG",
+        "alt": {"en": "Andrés Restrepo playing at Idilio.", "es": "Andrés Restrepo tocando en Idilio."},
+        "caption": {"en": "Andrés Restrepo playing at Idilio.", "es": "Andrés Restrepo tocando en Idilio."}
+      },
+      {
+        "src": "assets/img/ID3.JPG",
+        "alt": {"en": "The band's last song at our Idilio show.", "es": "La última canción del concierto de Idilio."},
+        "caption": {"en": "The closing song at our Idilio show.", "es": "La canción de cierre en nuestro concierto en Idilio."}
       }
     ]
   }
