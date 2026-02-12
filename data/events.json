@@ -1,0 +1,35 @@
+{
+  "nextEvent": {
+    "type": {"en": "Concert", "es": "Concierto"},
+    "title": {"en": "Ziloé Festival I", "es": "Festival Ziloé I"},
+    "location": {"en": "Ernesto Bein Theatre, Gimnasio Moderno, Bogotá - Colombia", "es": "Sala Ernesto Bein, Gimnasio Moderno, Bogotá - Colombia"},
+    "date": "2026-03-19T18:30:00-05:00",
+    "image": "assets/img/upcoming-01.svg",
+    "description": {
+      "en": "First edition of the yearly Ziloé Festival, with 3 invited groups.",
+      "es": "Primera edición del anual Fesival Ziloé, con 3 grupos invitados."
+    }
+  },
+  "upcomingReleases": [
+    {
+      "title": {"en": "Ensueño (Single)", "es": "Ensueño (Sencillo)"},
+      "location": {"en": "Worldwide Release", "es": "Lanzamiento Global"},
+      "date": "2026-03-19T00:00:00-05:00",
+      "image": "assets/img/ensueno.JPG",
+      "description": {
+        "en": "A jazz inspired single about the dream of reciprocal love.",
+        "es": "Un sencillo inspirado en el jazz sobre el amor desproporcionado a otra persona."
+      }
+    },
+    {
+      "title": {"en": "Déjame Entrar (Single)", "es": "Déjame Entrar (Sencillo)"},
+      "location": {"en": "Worldwide Release", "es": "Lanzamiento Global"},
+      "date": "2026-03-19T00:00:00-05:00",
+      "image": "assets/img/dejameentrar.JPG",
+      "description": {
+        "en": "Acoustic single that joins ideas about the reciprocity of love, in a single emotional and profound song.",
+        "es": "Sencillo acústico que junta ideas sobre la reciprocidad del amor, en una sola canción emocional y profunda."
+      }
+    }
+  ]
+}

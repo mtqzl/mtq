@@ -1,0 +1,33 @@
+{
+    "name": "Ziloé",
+    "tagline": {
+        "en": "Giving music a try.",
+        "es": "Dándole a la música."
+    },
+    "bio": {
+        "en": "Ziloé is a rock-pop band that was formed from the dream of making music. Our own music, composed and written by us, is what we want to share, and achieve.",
+        "es": "Ziloé es una banda de rock-pop que nació del sueño de hacer música. La música propia, compuesta & escrita por nosotros, es lo que queremos compartir, & lograr."
+    },
+    "photos": [
+      {
+        "src": "assets/img/IDILIO FOTO.jpg",
+        "alt": {"en": "Band portrait in Idilio Bar", "es": "Retrato de la banda en Idilio Bar"},
+        "caption": {"en": "Concert in Idilio Bar", "es": "Concierto en Idilio Bar"}
+      },
+      {
+        "src": "assets/img/WB2.jpg",
+        "alt": {"en": "Concert photo in the Rock Festival 2025.", "es": "Foto en concierto en el festival de rock."},
+        "caption": {"en": "Concert in Teatro Libre - Bogotá.", "es": "Concierto en el Teatro Libre - Bogotá."}
+      },
+      {
+        "src": "assets/img/WB1.jpg",
+        "alt": {"en": "Andrés Restrepo, our pianist playing the trumpet solo in Tendrá Sentido.", "es": "Andrés Restrepo, nuestro pianista tocando el solo de trompeta de Tendrá Sentido."},
+        "caption": {"en": "Andres Restrepo's Tendrá Sentido solo, in the Rock Festival 2025.", "es": "El solo de Andrés Restrepo en la canción Tendrá Sentido en el festival de rock 2025."}
+      },
+      {
+        "src": "assets/img/WB3.jpg",
+        "alt": {"en": "Simón Martínez, our bassist, playing in the Rock Festival 2025.", "es": "Simón Martínez, nuestro bajista, tocando en el festival de rock 2025"},
+        "caption": {"en": "Simón playing in the Rock Festival 2025.", "es": "Simón tocando en el festival de rock 2025."}
+      }
+    ]
+  }

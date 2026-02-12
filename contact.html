@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Band | Contact Us</title>
+  <style>body.app-loading{visibility:hidden}body.app-ready{visibility:visible}</style>
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body data-page="contact" class="app-loading">
+  <header class="header">
+    <div class="container navbar">
+      <div class="brand" id="brand-name">
+        <img class="logo-img" src="assets/img/Logo%20Ziloe.jpg" alt="Ziloe logo">
+        <span id="brand-text">Ziloe</span>
+      </div>
+      <button class="menu-toggle" type="button" data-menu-toggle aria-expanded="false" data-i18n="nav.menu">Menu</button>
+      <nav class="nav-links">
+        <a href="index.html" data-i18n="nav.home">Home</a>
+        <a href="about.html" data-i18n="nav.about">About</a>
+        <a href="music.html" data-i18n="nav.music">Our Music</a>
+        <a href="upcoming.html" data-i18n="nav.upcoming">Upcoming</a>
+        <a href="contact.html" data-i18n="nav.contact">Contact Us</a>
+      </nav>
+      <div class="lang-toggle" role="group" aria-label="Language">
+        <button type="button" data-lang="en">EN</button>
+        <button type="button" data-lang="es">ES</button>
+      </div>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h1 class="hero-title" data-i18n="sections.contact">Contact Us</h1>
+      <p class="hero-subtitle" data-i18n="contact.copy">Bookings and press inquiries.</p>
+      <div class="divider-line"></div>
+      <div class="card list">
+        <p><strong data-i18n="contact.emailLabel">Email</strong>: <a id="contact-email" href="#">contact@ziloe.band</a></p>
+        <p><strong data-i18n="contact.phoneLabel">Phone</strong>: <a id="contact-phone" href="#">+57 300 000 0000</a></p>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="divider-line"></div>
+      <p><img class="logo-img logo-footer" src="assets/img/Logo%20Ziloe.jpg" alt="Ziloe logo">&copy; <span id="footer-band">Ziloe</span> <span data-i18n="footer.rights">All rights reserved.</span></p>
+    </div>
+  </footer>
+
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
