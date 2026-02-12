@@ -1,13 +1,13 @@
 {
   "nextEvent": {
     "type": {"en": "Concert", "es": "Concierto"},
-    "title": {"en": "Stay tuned for future event announcements.", "es": "Pronto anunciaremos nuestro próximo evento."},
-    "location": {"en": "TBA", "es": "A ser anunciado."},
-    "date": null,
+    "title": {"en": "Ziloé en Vivo I", "es": "Ziloé en Vivo I"},
+    "location": {"en": "Centro de la Felicidad, Chapinero - Bogotá", "es": "Centro de la Felicidad, Chapinero - Bogotá"},
+    "date": "2026-04-16T18:30:00-05:00",
     "image": null,
     "description": {
-      "en": null,
-      "es": null
+      "en": "Enjoy our music in the first edition of Ziloé en Vivo.",
+      "es": "Disfruta nuestra música en la primera edición de Ziloé en Vivo."
     }
   },
   "upcomingReleases": [
