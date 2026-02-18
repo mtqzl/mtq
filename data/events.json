@@ -1,13 +1,13 @@
 {
   "nextEvent": {
     "type": {"en": "Concert", "es": "Concierto"},
-    "title": {"en": "Ziloé en Vivo I", "es": "Ziloé en Vivo I"},
-    "location": {"en": "Centro de la Felicidad, Chapinero - Bogotá", "es": "Centro de la Felicidad, Chapinero - Bogotá"},
+    "title": {"en": "GM Resuena Festival I", "es": "Primera Edición Festival GM Resuena"},
+    "location": {"en": "Centro Cultural Gimnasio Moderno - Bogotá, Colombia", "es": "Centro Cultural Gimnasio Moderno - Bogotá"},
     "date": "2026-04-16T18:30:00-05:00",
-    "image": null,
+    "image": "assets/img/3.jpg",
     "description": {
-      "en": "Enjoy our music in the first edition of Ziloé en Vivo.",
-      "es": "Disfruta nuestra música en la primera edición de Ziloé en Vivo."
+      "en": "Enjoy our music with the company of Detonante and Compañia Ilimitada in the first edition of GM Resuena Festival.",
+      "es": "Disfruta nuestra música con la compañia de Detonante y Compañia Ilimitada en la primera edición del Festival GM Resuena."
     }
   },
   "upcomingReleases": [
