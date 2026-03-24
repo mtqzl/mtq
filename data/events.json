@@ -3,7 +3,7 @@
     "type": {"en": "Concert", "es": "Concierto"},
     "title": {"en": "Ziloé presents: Ensueño", "es": "Ziloé presenta: Ensueño"},
     "location": {"en": "Gimnasio Moderno Library - Bogotá, Colombia", "es": "Biblioteca del Gimnasio Moderno - Bogotá"},
-    "date": "2026-04-09T18:30:00-05:00",
+    "date": "2026-04-16T19:00:00-05:00",
     "image": "assets/img/ensconcierto.jpg",
     "description": {
       "en": "Enjoy our music with the company of Compañia Ilimitada in the launch of our singles Ensueño and Déjame Entrar, in a pro scholarship concert for the less fortunate.",
@@ -14,7 +14,7 @@
     {
       "title": {"en": "Ensueño (Single)", "es": "Ensueño (Sencillo)"},
       "location": {"en": "Worldwide Release", "es": "Lanzamiento Global"},
-      "date": "2026-03-27T00:00:00-05:00",
+      "date": "2026-04-16T00:00:00-05:00",
       "image": "assets/img/ensueno.JPG",
       "description": {
         "en": "A jazz inspired single about the dream of reciprocal love.",
@@ -24,7 +24,7 @@
     {
       "title": {"en": "Déjame Entrar (Single)", "es": "Déjame Entrar (Sencillo)"},
       "location": {"en": "Worldwide Release", "es": "Lanzamiento Global"},
-      "date": "2026-03-27T00:00:00-05:00",
+      "date": "2026-04-16T00:00:00-05:00",
       "image": "assets/img/dejameentrar.JPG",
       "description": {
         "en": "Acoustic single that joins ideas about the reciprocity of love, in a single emotional and profound song.",
