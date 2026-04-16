@@ -1,13 +1,13 @@
 {
   "nextEvent": {
     "type": {"en": "Concert", "es": "Concierto"},
-    "title": {"en": "Ziloé presents: Ensueño", "es": "Ziloé presenta: Ensueño"},
-    "location": {"en": "Gimnasio Moderno Library - Bogotá, Colombia", "es": "Biblioteca del Gimnasio Moderno - Bogotá"},
-    "date": "2026-04-16T19:00:00-05:00",
-    "image": "assets/img/ensconcierto.jpg",
+    "title": {"en": "Ziloé presents: Festival Gimnasiano", "es": "Ziloé presenta: Festival Gimnasiano"},
+    "location": {"en": "Gimnasio Moderno - Bogotá, Colombia", "es": "Gimnasio Moderno - Bogotá"},
+    "date": "2026-04-09T14:00:00-05:00",
+    "image": "assets/img/festgimnasiano26.jpg",
     "description": {
-      "en": "Enjoy our music with the company of Compañia Ilimitada in the launch of our singles Ensueño and Déjame Entrar, in a pro scholarship concert for the less fortunate.",
-      "es": "Disfruta nuestra música con Compañia Ilimitada en el lanzamiento de nuestros sencillos Ensueño y Déjame Entrar, en un concierto pro becas para jóvenes de bajos recursos."
+      "en": "Enjoy our music in the launch of our singles Ensueño and Déjame Entrar.",
+      "es": "Disfruta nuestra música en el lanzamiento de nuestros sencillos Ensueño y Déjame Entrar."
     }
   },
   "upcomingReleases": [
